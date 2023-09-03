@@ -1,7 +1,8 @@
 
 
-   
 
+const publicKey = PUBLIC_KEY;
+const privateKey = PRIVATE_KEY;
 
 
 
